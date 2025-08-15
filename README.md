@@ -3,7 +3,7 @@
 
 > 南方电网家电维修系统，家电维修登记，家电维修过程管理，家电维修图片管理系统，必优勘察，现场拍图
 ## PC端访问地址
-只有后端管理系统 需要试用可微信联系easinlee
+只有后端管理系统 + 师傅端小程序 + 用户端小程序 需要试用可微信联系easinlee
 
 ## 官方地址
 <img width="1859" height="567" alt="image" src="https://github.com/user-attachments/assets/5a4cf077-c30c-4f5c-8846-e7f9635f0c90" />
@@ -46,6 +46,15 @@
 
 ## 小程序
 小程序搜索：维小助
+<img width="508" height="834" alt="image" src="https://github.com/user-attachments/assets/4fb26f4d-064a-46e0-b92b-8e73e77cf250" />
+
+<img width="544" height="936" alt="image" src="https://github.com/user-attachments/assets/af7948be-ee61-495d-bb3c-2deb558f7c42" />
+
+<img width="511" height="941" alt="image" src="https://github.com/user-attachments/assets/90ee869b-c7f6-41ca-9e5e-0f795269d276" />
+
+<img width="533" height="937" alt="image" src="https://github.com/user-attachments/assets/765ca1c5-5b64-4e61-9105-74d9783fa2ed" />
+
+
 ## 后台
 联系easinlee试用
 ---
